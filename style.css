@@ -1,0 +1,138 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}   
+.flexibel-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 50px;
+    padding-top: 15%;
+}
+.width{
+    width: 50%;
+    padding-left: 5%;
+}
+p{
+    font-size: 20px;
+}
+span{
+    color: orange;
+}
+.width img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(#FE4F30,#FC8F49 );
+    padding: 20px 60px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.middle{
+    background-image: url(images/shapes/7.png);
+    background-size: cover;
+    margin: 0;
+}
+.secondimg img{
+    height: 500px;
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+.banner{
+    margin:0 15% 0 10%;
+}
+.banner p{
+    font-size: 20px;
+    text-align: justify;
+}
+.recipe{
+    text-align: center;
+    font-size: 30px;       
+}
+.recipe p{
+    text-align: justify;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.border{
+    width: 70%;
+    margin-left: 5%;
+    margin-right: 5%;    
+}
+.border img{
+    width: 60%;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+}
+.menu-item img{
+    width: 90%;
+    margin: 5%;
+}
+.menu-item{
+    width: 20%;
+    box-shadow: 10px 10px 40px grey;
+    margin-left:10%;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 30px;  
+    text-align: left; 
+}
+.wrapper{
+    margin-left: 5%;
+    width: 90%;
+}
+.menu-item p{
+    padding-left: 5%;
+}
+.menu-item h2{
+    padding-left: 5%;
+}
+.shado{
+    height: 150px;
+    box-shadow:20px 20px 40px grey ;
+    margin-right: 10%;
+    text-align: center;
+    margin-left: 10%;       
+}
+.wrap h1{
+    text-align: center;
+    padding: 10px 5px;
+}
+.exprience-developer{
+    text-align: center;
+    width: 90%;    
+}
+.count{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    height: 200px;
+    color: white;
+    padding: 50px;   
+}
+footer h2{
+    text-align: center;   
+}
+footer p{
+    text-align: center;   
+}
+.footer{
+    margin-top: 10px;
+}
+.color{
+    color: gray;
+}
+
+
+
+
+
+
+
